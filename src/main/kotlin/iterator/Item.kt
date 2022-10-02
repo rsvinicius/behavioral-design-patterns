@@ -1,4 +1,4 @@
 package iterator
 
-class Item {
+class Item(val name: String, val quantity: Int) {
 }
