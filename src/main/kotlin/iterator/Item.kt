@@ -1,0 +1,4 @@
+package iterator
+
+class Item {
+}
