@@ -1,4 +1,4 @@
-# Behavioral Design Patterns Repository (WIP)
+# Behavioral Design Patterns Repository
 
 ## Description
 Design patterns provide a kind of template for writing quality code. Knowing which design pattern to use in which scenario can be challenging, but will make you a better programmer. This projects provides behavioral patterns example use cases, which can help you abstract the complex flow of applications and focus on interactions between objects.
